@@ -1,0 +1,10 @@
+C:\Users\JADPA18\source\repos\Calculadora\Calculadora\bin\Debug\CalculadoraWiston.exe.config
+C:\Users\JADPA18\source\repos\Calculadora\Calculadora\bin\Debug\CalculadoraWiston.exe
+C:\Users\JADPA18\source\repos\Calculadora\Calculadora\bin\Debug\CalculadoraWiston.pdb
+C:\Users\JADPA18\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\JADPA18\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\JADPA18\source\repos\Calculadora\Calculadora\obj\Debug\CalculadoraWiston.Properties.Resources.resources
+C:\Users\JADPA18\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\JADPA18\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\JADPA18\source\repos\Calculadora\Calculadora\obj\Debug\CalculadoraWiston.exe
+C:\Users\JADPA18\source\repos\Calculadora\Calculadora\obj\Debug\CalculadoraWiston.pdb
